@@ -4,7 +4,7 @@ import pth from "path"
 import fs from "fs"
 import xtring from "xtring"; xtring();
 
-import { configureExpressApp, SendFileProxyFunc } from "./../../server/src/setup"
+import { configureExpressApp, SendFileProxyFunc } from "./setup"
 
 
 
